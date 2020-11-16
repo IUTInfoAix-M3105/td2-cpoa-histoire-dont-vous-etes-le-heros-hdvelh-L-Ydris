@@ -78,6 +78,8 @@ public class NodeMultiple {
 	 */
 	public void setDaughters(NodeMultiple[] daughters) {
 		/* TO BE COMPLETED */
+		this.daughters = daughters;
+
 	}
 
 	/**
