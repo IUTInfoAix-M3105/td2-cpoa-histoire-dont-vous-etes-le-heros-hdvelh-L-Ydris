@@ -24,7 +24,7 @@ public class NodeMultiple {
 	@Override
 	public String toString() {
 		/* TO BE COMPLETED */
-
+		return data.toString();
 
 	}
 
