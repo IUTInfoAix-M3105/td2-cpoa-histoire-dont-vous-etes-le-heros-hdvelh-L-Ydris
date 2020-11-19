@@ -39,7 +39,7 @@ public class NodeMultiple {
 	 * @param i the index of the daughter node.
 	 * @return the {@code i}th daughter node, or {@code null} if it does not exist.
 	 */
-	public NodeMultiple getDaughter(int i) {
+	public NodeMultiple[] getDaughter(int i) {
 		/* TO BE COMPLETED */
 		if (i >= NODE_MAX_ARITY || i < 0)
 		{
