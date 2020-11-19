@@ -148,7 +148,7 @@ public class Event extends NodeMultiple {
 	 */
 	public int getId() {
 		/* TO BE COMPLETED */
-		return id;
+		return id;//id
 	}
 
 	/* Methods */
